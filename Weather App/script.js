@@ -1,5 +1,5 @@
 const date = document.getElementById("date-time");
-const apiKey = `63b71428d571f5ae1e3de6afc79b4b58`;
+const apiKey = `YOUR_API_KEY`;
 const apiURL = "https://api.openweathermap.org/data/2.5/weather?";
 const temp = document.getElementById("temp");
 
