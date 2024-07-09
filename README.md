@@ -33,7 +33,7 @@ Follow these instructions to get a copy of the project up and running on your lo
    open index.html
 
 
-**Usage**
+### Usage
   1. Enter a city name in the input field.
   2. Click the "Get Weather" button.
   3. The current weather details for the specified city will be displayed.
@@ -47,10 +47,12 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### API Key
 To use the OpenWeatherMap API, you need an API key. Follow these steps to obtain one:
+   - Sign up at OpenWeatherMap.
+   
+   - Go to the API keys section and generate a new key.
+   
+   - Replace YOUR_API_KEY in the JavaScript file with your actual API key. 
 
-1.Sign up at OpenWeatherMap.
-2.Go to the API keys section and generate a new key.
-3.Replace YOUR_API_KEY in the JavaScript file with your actual API key.   
             const apiKey = 'YOUR_API_KEY';
 
 
@@ -58,6 +60,6 @@ To use the OpenWeatherMap API, you need an API key. Follow these steps to obtain
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Acknowledgements
-  1. OpenWeatherMap for providing the weather data API.
-  2. FontAwesome for the weather icons.
+  - OpenWeatherMap for providing the weather data API.
+  - FontAwesome for the weather icons.
 
