@@ -4,9 +4,11 @@ A simple web application that displays the current weather for a specified locat
 
 ## Features
 
-- Fetches and displays the current weather for a given location.
-- Shows temperature, weather conditions, and an icon representing the weather.
-- Responsive design suitable for both desktop and mobile devices.
+-	Developed a dynamic weather application that delivers real-time weather forecasts based on user-inputted location.
+-	 Integrated the OpenWeatherMap API to retrieve accurate and current weather information, including temperature, humidity, wind speed, and detailed weather descriptions.
+-	Optimized the search functionality with a Trie data structure, enabling fast and efficient city searches as the user types.
+-	The application features a user-friendly interface built with HTML, CSS, and JavaScript, ensuring a responsive and intuitive experience across devices. 
+
 
 
 ## Getting Started
