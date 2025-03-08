@@ -58,10 +58,7 @@ To use the OpenWeatherMap API, you need an API key. Follow these steps to obtain
             const apiKey = 'YOUR_API_KEY';
 
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### Acknowledgements
   - OpenWeatherMap for providing the weather data API.
-  - FontAwesome for the weather icons.
+  - FontAwesome for weather icons.
 
